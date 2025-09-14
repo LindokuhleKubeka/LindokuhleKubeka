@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lindokuhle Kubeka
-Final-year Software Engineering student at WeThinkCode_ (graduating 2026) and Junior DevOps Engineer with a Certified Kubernetes Administrator (CKA) credential. Skilled in Kubernetes, CI/CD, Java, Python, SQL, and cloud platforms (AWS, Azure). Completing a Retail Business Management Diploma, adding expertise for retail tech roles (e.g., Takealot, WeBuyCars). Open to remote and relocation opportunities in South Africa, UAE, and Netherlands.
+Final-year Software Engineering student at WeThinkCode_ (graduating 2026) and Junior DevOps Engineer with a Certified Kubernetes Administrator (CKA) credential. Skilled in Kubernetes, CI/CD, Java, Python, SQL, and cloud platforms (AWS, Azure). Completing a Retail Business Management Diploma.
 
 ## 🔧 Skills
 - **DevOps**: Kubernetes, Docker, GitHub Actions, CI/CD, Linux
