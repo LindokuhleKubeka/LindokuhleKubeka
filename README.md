@@ -8,7 +8,6 @@ Cloud-driven software engineer passionate about building scalable systems throug
 - **Web/APIs**: RESTful APIs, JSON, Postman
 - **Version Control**: Git, GitHub
 - **Soft Skills**: Problem-solving, teamwork, adaptability
-- **Domain Knowledge**: Retail Business Management
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes)
