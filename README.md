@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lindokuhle Kubeka
-Cloud-driven software engineer passionate about building scalable systems through DevOps automation. Skilled in Kubernetes, CI/CD, Java, Python, SQL, and cloud platforms (AWS, Azure). Completing a Retail Business Management Diploma.
+Cloud-driven software engineer passionate about building scalable systems through DevOps automation. Skilled in Kubernetes, CI/CD, Java, Python, SQL, and cloud platforms (AWS, Azure).
 
 ## 🔧 Skills
 - **DevOps**: Kubernetes, Docker, GitHub Actions, CI/CD, Linux
