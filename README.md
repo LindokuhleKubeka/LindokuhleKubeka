@@ -27,7 +27,6 @@ Cloud-driven software engineer passionate about building scalable systems throug
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/lindokuhle-kubeka-355922220/)
 - Email: wonderboy5292@gmail.com
-- Phone: 0719284146
 - Location: Brakpan, South Africa
 - Open to remote/relocation opportunities 
 
