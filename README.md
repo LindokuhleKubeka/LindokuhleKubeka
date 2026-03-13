@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lindokuhle Kubeka
-Cloud-driven software engineer passionate about building scalable systems through DevOps automation with a Certified Kubernetes Administrator (CKA) credential. Skilled in Kubernetes, CI/CD, Java, Python, SQL, and cloud platforms (AWS, Azure). Completing a Retail Business Management Diploma.
+Cloud-driven software engineer passionate about building scalable systems through DevOps automation. Skilled in Kubernetes, CI/CD, Java, Python, SQL, and cloud platforms (AWS, Azure). Completing a Retail Business Management Diploma.
 
 ## 🔧 Skills
 - **DevOps**: Kubernetes, Docker, GitHub Actions, CI/CD, Linux
@@ -14,7 +14,6 @@ Cloud-driven software engineer passionate about building scalable systems throug
 
 
 ## 📜 Certifications
-- Certified Kubernetes Administrator (CKA) - Linux Foundation
 - Kubernetes and Cloud Native Essentials (LFS250)
 - Introduction to Kubernetes (LFS158)
 - Introduction to Cloud Infrastructure Technologies (LFS151)
@@ -24,18 +23,13 @@ Cloud-driven software engineer passionate about building scalable systems throug
 - Professional Certificate in Agile and Scrum (MTF Institute)
 - Introduction to Programming Using Python (Sololearn)
 
-## 📚 Featured Projects
-- [CI/CD Pipeline with GitHub Actions](https://github.com/LindokuhleKubeka/ci-cd-flask) - Automated Flask app deployment to Kubernetes.
-- [Kubernetes Helm Chart](https://github.com/LindokuhleKubeka/helm-nodejs) - Helm-packaged Node.js app on Kubernetes.
-- [Terraform Azure VM](https://github.com/LindokuhleKubeka/terraform-azure-vm) - Azure VM provisioned with Terraform.
-- [Shelf Sense](https://github.com/LindokuhleKubeka/shelf-sense) - Python-based retail inventory management prototype.
 
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/lindokuhle-kubeka-355922220/)
 - Email: wonderboy5292@gmail.com
-- Phone: 069 500 0233
+- Phone: 0719284146
 - Location: Brakpan, South Africa
-- Open to remote/relocation opportunities globally
+- Open to remote/relocation opportunities 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LindokuhleKubeka&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LindokuhleKubeka&layout=compact&theme=radical)
