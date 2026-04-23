@@ -10,10 +10,10 @@ AI & Backend Engineer based in Johannesburg, South Africa — passionate about c
 
 ## About Me
 
-WeThinkCode_ graduate currently working across AI/ML tooling, backend systems, and cloud-native infrastructure. I hold a **Certified Kubernetes Administrator (CKA)** credential from the Linux Foundation and am actively contributing to the African developer ecosystem through the Kubernetes African Developer Training Program and the CNCF community.
+WeThinkCode_ graduate currently working across AI/ML tooling, backend systems, and cloud-native infrastructure. I am actively contributing to the African developer ecosystem through the Kubernetes African Developer Training Program and the CNCF community.
 
 - 🔭 Currently building: AI-powered backend services and Kubernetes-native deployments
-- 🌱 Working toward: KCNA certification | CNCF Ambassador pathway
+- 🌱 Working CNCF Ambassador pathway
 - 🤝 Mentoring via: **Andela** | Freelancing on **Mindrift** & **Upwork**
 - 📍 Open to remote & on-site roles across Johannesburg and globally
 
@@ -48,18 +48,6 @@ WeThinkCode_ graduate currently working across AI/ML tooling, backend systems, a
 
 ## Featured Projects
 
-### 🚀 [CI/CD Pipeline with GitHub Actions](https://github.com/LindokuhleKubeka/ci-cd-flask)
-Automated Flask application deployment to Kubernetes using GitHub Actions. Covers containerisation, image builds, and rolling deployments.
-`Python` `Docker` `Kubernetes` `GitHub Actions`
-
-### ☸️ [Kubernetes Helm Chart — Node.js](https://github.com/LindokuhleKubeka/helm-nodejs)
-Production-ready Helm chart packaging a Node.js application for deployment on Kubernetes clusters with configurable values and health checks.
-`Helm` `Kubernetes` `Node.js` `YAML`
-
-### ☁️ [Terraform Azure VM Provisioning](https://github.com/LindokuhleKubeka/terraform-azure-vm)
-Infrastructure-as-Code provisioning of Azure Virtual Machines using Terraform — includes networking, security groups, and state management.
-`Terraform` `Azure` `HCL` `IaC`
-
 ### 📦 [Shelf Sense — Retail Inventory System](https://github.com/LindokuhleKubeka/shelf-sense)
 Python-based retail inventory management prototype built with domain knowledge from the South African retail sector.
 `Python` `REST API` `SQLite`
@@ -67,19 +55,6 @@ Python-based retail inventory management prototype built with domain knowledge f
 ### 🤖 [VulaCareer AI Prototype](https://github.com/LindokuhleKubeka/VulaCareerAI-Prototype)
 AI-powered career guidance prototype designed for the South African context — an exploration of African-language NLP and career pathway recommendation.
 `Python` `AI/ML`
-
----
-
-## Certifications
-
-| Credential | Issuer | Verify |
-|---|---|---|
-| ✅ Kubernetes and Cloud Native Essentials (LFS250) | Linux Foundation | [CNCF](https://training.linuxfoundation.org/) |
-| ✅ Introduction to Kubernetes (LFS158) | Linux Foundation | [CNCF](https://training.linuxfoundation.org/) |
-| ✅ Introduction to Cloud Infrastructure Technologies (LFS151) | Linux Foundation | — |
-| ✅ Introduction to Linux (LFS101) | Linux Foundation | — |
-| ✅ AWS Educate: Introduction to Cloud 101 | AWS | — |
-| ✅ Professional Certificate in Agile & Scrum | MTF Institute | — |
 
 ---
 
